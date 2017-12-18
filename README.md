@@ -61,7 +61,7 @@ $Connection->sendKey($Keys->back());
 $Connection->disconnect();
 ````
 
-You can find all Keys in the file [Keys.php](https:/github.com/nook24/php-horizon-remote/blob/master/Keys.php)
+You can find all Keys in the file [Keys.php](https://github.com/nook24/php-horizon-remote/blob/master/Keys.php)
 
 # License
 MIT License

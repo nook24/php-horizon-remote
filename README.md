@@ -7,6 +7,10 @@ This class is not for IR commands, it uses the network interface of the Horizon 
 
 Many thanks to [OrangeTux](https://github.com/OrangeTux) for his work on [einder](https://github.com/OrangeTux/einder). This is just a shameless PHP rip off.
 
+https://github.com/OrangeTux/einder is a Python implementation of [kuijp](https://github.com/kuijp) work on [horizoncontrol](https://github.com/kuijp/horizoncontrol) which is a Java implementation.
+
+Thanks to all of you!
+
 ## Installation
 ````
 git clone https://github.com/nook24/php-horizon-remote.git
